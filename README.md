@@ -1,0 +1,2 @@
+# Novel-method-to-detect-landslides-boulders-on-the-Moon-Using-Chandrayaan-images
+Brief about the Idea: Chandrasetu is an AI-powered system built on Chandrayaan- 2 data to detect and interpret lunar landslides and boulder hazards. It combines geospatial intelligence, solar illumination/shadow analysis, and explain able machine learning to help us not only spot lunar surface risks—but also understaand 
